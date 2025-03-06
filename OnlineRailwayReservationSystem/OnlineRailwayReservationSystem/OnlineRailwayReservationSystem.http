@@ -1,0 +1,6 @@
+@OnlineRailwayReservationSystem_HostAddress = http://localhost:5109
+
+GET {{OnlineRailwayReservationSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
